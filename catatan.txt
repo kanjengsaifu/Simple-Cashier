@@ -1,0 +1,24 @@
+====================
+	ADMIN
+====================
+Untuk masuk ke admin
+kasir/c_adm_login
+
+username = admin
+password = admin
+
+====================
+	USER
+====================
+
+username = kasir1
+password = kasir1
+
+username = kasir2
+password = kasir2
+
+username = kasir3
+password = kasir3
+
+username = kasir4
+password = kasir4

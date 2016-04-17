@@ -1,0 +1,74 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,100,700);
+
+#body {
+	background: #fff;
+	margin:auto;
+	padding:auto;
+}
+.body {
+	background: #fff;
+	margin:auto;
+	padding:auto;
+}
+
+.body_table
+{
+	background:#FFF;	
+}
+
+.not {
+	font-family: "Open Sans Light";
+	font-size:30px;
+	color: #fff;
+	margin-top:170px;
+}
+.no {
+	font-family: "Open Sans";
+	font-size: 20px;
+	color: #fff;
+	margin-top:40px;
+}
+
+.loading {
+  display: inline-block;
+  margin-top:40px;
+  
+  border-width: 30px;
+  border-radius: 50%;
+  -webkit-animation: spin 1s linear infinite;
+     -moz-animation: spin 1s linear infinite;
+       -o-animation: spin 1s linear infinite;
+          animation: spin 1s linear infinite;
+  }
+
+.style-1 {
+  border-style: solid;
+  border-color: #fff transparent;
+  }
+
+.style-2 {
+  border-style: double;
+  border-color: #fff transparent;
+  }
+
+.style-3 {
+  border-style: double;
+  border-color: #fff #444 #444;
+  }
+
+@-webkit-keyframes spin {
+  100% { -webkit-transform: rotate(359deg); }
+  }
+
+@-moz-keyframes spin {
+  100% { -moz-transform: rotate(359deg); }
+  }
+
+@-o-keyframes spin {
+  100% { -moz-transform: rotate(359deg); }
+  }
+
+@keyframes spin {
+  100% {  transform: rotate(359deg); }
+  }
+
